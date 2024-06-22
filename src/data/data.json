@@ -1,0 +1,61 @@
+{
+  "card": [
+    {
+      "image": "./src/assets/images/avatar-mark-webber.webp",
+      "name": "Mark Webber",
+      "action": "reacted to your recent post",
+      "event": "My first tournament today!",
+      "event-color": "text-dark-grayish-blue",
+      "when": "1m ago",
+      "notification": "true"
+    },
+    {
+      "image": "./src/assets/images/avatar-angela-gray.webp",
+      "name": "Angela Gray",
+      "action": "followed you",
+      "when": "5m ago",
+      "notification": "true"
+    },
+    {
+      "image": "./src/assets/images/avatar-jacob-thompson.webp",
+      "name": "Jacob Thompson",
+      "action": "has joined your group",
+      "event": "Chess Club",
+      "event-color": "text-blue",
+      "notification": "true"
+    },
+    {
+      "image": "./src/assets/images/avatar-rizky-hasanuddin.webp",
+      "name": "Rizky Hasanuddin",
+      "action": "sent you a private message",
+      "when": "5d ago",
+      "notification": "false",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+    },
+    {
+      "image": "./src/assets/images/avatar-kimberly-smith.webp",
+      "name": "Kimberly Smith",
+      "action": "commented on your picture",
+      "when": "1w ago",
+      "notification": "false"
+    },
+    {
+      "image": "./src/assets/images/avatar-nathan-peterson.webp",
+      "name": "Nathan Peterson",
+      "action": "reacted to your recent post",
+      "event": "5 end-game strategies to increase your win rate",
+      "event-color": "text-dark-grayish-blue",
+      "when": "2w ago",
+      "notification": "false"
+    },
+    {
+      "image": "./src/assets/images/avatar-anna-kim.webp",
+      "name": "Anna Kim",
+      "action": "left the group",
+      "event": "Chess Club",
+      "event-color": "text-blue",
+      "when": "2w ago",
+      "notification": "false"
+    }
+  ]
+}
