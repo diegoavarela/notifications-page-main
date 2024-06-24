@@ -34,7 +34,7 @@ function Card({
       <img
         src={image}
         alt="dummy"
-        className="rounded-lg h-10 w-10 col-span-1 mx-auto mt-4"
+        className="rounded-lg h-10 w-10 col-span-1 mx-auto"
       />
       <div className="text-sm col-span-3">
         <p className="font-bold text-very-dark-blue">
